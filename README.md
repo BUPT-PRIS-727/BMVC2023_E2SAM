@@ -42,12 +42,6 @@ pytorch>=2.0
 
 If you find this paper useful in your research, please consider citing:
 
-@article{su2023learning,
-  title={E2SAM: A Pipeline for Efficiently Extending SAM's Capability on Cross-Modality Data via Knowledge Inheritance},
-  author={Su, Sundingkai and Xu, Mengqiu and Chen, Kaixin and Wu, Ming and Zhang, Chuang},
-  booktitle={BMVC},
-  year={2320}
-}
 
 # Contact
 Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
