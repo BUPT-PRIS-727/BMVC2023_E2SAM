@@ -9,14 +9,14 @@ Furthermore, the strengths of the proposed method are discussed in detail throug
 
 # Requirements
 mmengine>=2.0
+
 pytorch>=2.0
 
 # Usage
 1. Download dataset from 
-   
+
    [SHIFT ]: https://www.vis.xyz/shift/download/
-   
-   
+
    | Images (1 fps) | train/val |
    | --------------------------- | ----- |
    | RGB Image Front             | 12.6G / 2.0G |
@@ -31,23 +31,24 @@ pytorch>=2.0
 3. run
 
    ```
-   Training:
+   # Training:
    python runner_shift_4_sam.py
-   Inference:
+   # Inference:
    python infer.py
    ```
 
-   
-
 
 # Citation
+
 If you find this paper useful in your research, please consider citing:
+
 @article{su2023learning,
   title={E2SAM: A Pipeline for Efficiently Extending SAM's Capability on Cross-Modality Data via Knowledge Inheritance},
   author={Su, Sundingkai and Xu, Mengqiu and Chen, Kaixin and Wu, Ming and Zhang, Chuang},
   booktitle={BMVC},
   year={2320}
 }
+
 # Contact
 Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
 - susundingkai@bupt.edu.cn
